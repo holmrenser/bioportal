@@ -64,7 +64,7 @@
     "commander": "^7.0.0",
     "core-js": "^3.15.2",
     "core-util-is": "^1.0.2",
-    "d3": "5.15.0",
+    "d3": "7.0.0",
     "documentation": "^13.1.1",
     "dot-object": "^2.1.4",
     "fibers": "^5.0.0",
