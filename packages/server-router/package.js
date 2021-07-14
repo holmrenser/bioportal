@@ -11,7 +11,7 @@ Package.describe({
 
 Npm.depends({
   'path-to-regexp': '1.7.0',
-  'query-string': '4.3.4',
+  'query-string': '7.0.1',
   'url-parse': '1.1.9',
   invariant: '2.2.2',
 });
