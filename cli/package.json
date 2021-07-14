@@ -7,7 +7,7 @@
   "dependencies": {
     "asteroid": "^2.0.3",
     "tail": "^2.0.3",
-    "commander": "^7.0.0",
+    "commander": "^8.0.0",
     "ws": "^7.0.0"
   }
 }
